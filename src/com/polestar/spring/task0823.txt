@@ -1,0 +1,4 @@
+1. new project
+2. 로컬 저장소 초기화
+3. 개별 소스코드 저장 -> git commit -> push
+4. 설정 github.io 활성화 -> 확인
